@@ -1,1 +1,3 @@
-# hangman_game
+# HANGMAN
+
+Hangman is a classic letter guessing game.
